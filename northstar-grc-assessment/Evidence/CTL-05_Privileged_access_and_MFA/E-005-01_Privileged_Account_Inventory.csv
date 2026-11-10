@@ -1,0 +1,14 @@
+﻿# SIMULATED / FICTIONAL PORTFOLIO EVIDENCE — NOT A REAL COMPANY RECORD
+Account ID,System,Type,Owner,Privilege,Status,MFA status,Approval ref
+PA-001,Cloud Console,Named admin,A. Chen,Org Admin,Active,Enforced,APR-1001
+PA-002,Payment API,Named admin,M. Patel,Deployment Admin,Active,Enforced,APR-1002
+PA-003,Identity Provider,Named admin,J. Rivera,Identity Admin,Active,Enforced,APR-1003
+PA-004,Database,Named admin,S. Kim,DB Admin,Active,Enforced,APR-1004
+PA-005,Cloud Console,Named admin,R. Brooks,Cloud Admin,Active,Enforced,APR-1005
+PA-006,Payment API,Named admin,T. Nguyen,Platform Admin,Active,Enforced,APR-1006
+PA-007,SIEM,Named admin,D. Shah,Security Admin,Active,Enforced,APR-1007
+PA-008,Cloud Console,Named admin,K. Morgan,Cloud Admin,Active,Enforced,APR-1008
+PA-009,Identity Provider,Named admin,P. Lewis,Identity Admin,Active,Enforced,APR-1009
+PA-010,Cloud Console,Named admin,Unassigned,Cloud Admin,Active,Unknown,Missing
+PA-011,Emergency Access,Break-glass,Security Duty Role,Emergency Admin,Active,Exception,APR-1011
+PA-012,Payment API,Service account,Unclear,API Admin Token,Active,N/A / review,Missing

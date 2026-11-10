@@ -1,0 +1,3 @@
+﻿# SIMULATED / FICTIONAL PORTFOLIO EVIDENCE — NOT A REAL COMPANY RECORD
+Exception ID,Account ID,Reason,Approver,Compensating controls,Last tested,Expiry,Status
+EX-01,PA-011,Emergency break-glass access,CISO Delegate,Vaulted credential; alert on use; post-use review,2026-05-01,2026-12-31,Approved; test date may be stale

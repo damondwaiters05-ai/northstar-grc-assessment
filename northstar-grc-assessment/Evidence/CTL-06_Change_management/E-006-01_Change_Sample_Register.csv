@@ -1,0 +1,6 @@
+﻿# SIMULATED / FICTIONAL PORTFOLIO EVIDENCE — NOT A REAL COMPANY RECORD
+Change ID,Type,Approval,Test evidence,Notes
+CHG-100,Normal,Before deployment,Attached,Complete sample
+CHG-101,Normal,After deployment,Attached,Investigate approval timing
+CHG-102,Normal,Before deployment,Missing,Test evidence not attached
+CHG-103,Emergency,Emergency path,Not shown,Post-implementation review blank

@@ -1,0 +1,7 @@
+﻿# SIMULATED / FICTIONAL PORTFOLIO EVIDENCE — NOT A REAL COMPANY RECORD
+Timestamp UTC,Account ID,System,Event,MFA outcome,Notes
+2026-10-13T09:02:11Z,PA-001,Cloud Console,Login,Success,Simulated
+2026-10-13T09:14:20Z,PA-002,Payment API,Login,Success,Simulated
+2026-10-13T10:31:05Z,PA-011,Emergency Access,Login,Not recorded,Investigate post-use review
+2026-10-14T11:22:43Z,PA-010,Cloud Console,Login,Unknown,MFA outcome not present in event
+2026-10-15T16:03:51Z,PA-003,Identity Provider,Login,Success,Simulated

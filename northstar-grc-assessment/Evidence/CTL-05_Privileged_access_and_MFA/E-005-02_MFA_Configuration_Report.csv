@@ -1,0 +1,14 @@
+﻿# SIMULATED / FICTIONAL PORTFOLIO EVIDENCE — NOT A REAL COMPANY RECORD
+Account ID,MFA configured,MFA enforced,Exception ID,Notes
+PA-001,Yes,Yes,,
+PA-002,Yes,Yes,,
+PA-003,Yes,Yes,,
+PA-004,Yes,Yes,,
+PA-005,Yes,Yes,,
+PA-006,Yes,Yes,,
+PA-007,Yes,Yes,,
+PA-008,Yes,Yes,,
+PA-009,Yes,Yes,,
+PA-010,Yes,Unknown,,Enforcement not confirmed
+PA-011,No,No,EX-01,Break-glass exception
+PA-012,N/A,N/A,,Service-account authentication method not documented
