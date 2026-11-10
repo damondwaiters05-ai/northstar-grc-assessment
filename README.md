@@ -16,13 +16,15 @@ The inherent risk estimates classify **one risk as Critical and eleven as High**
 
 | File | What it contains |
 | --- | --- |
-| [Project Charter and Assessment Plan](northstar-grc-assessment/01_Northstar_Project_Charter_and_Assessment_Plan.docx) | Fictional scenario, scope assumptions, assessment method, and rating definitions. |
-| [Control Assessment Matrix](northstar-grc-assessment/02_Northstar_Control_Assessment_Matrix.xlsx) | The gap assessment: design, implementation, operation, findings, ratings, rationale, and recommendations. |
-| [Risk Register](northstar-grc-assessment/03_Northstar_Risk_Register.xlsx) | Risk scenarios, business impacts, score rationales, existing safeguards, treatment, and uncertainty. |
-| [Evidence Register](northstar-grc-assessment/04_Northstar_Evidence_Register.xlsx) | Evidence IDs, control associations, artifact paths, and sample limitations. |
-| [Remediation Roadmap](northstar-grc-assessment/Northstar_Remediation_Roadmap.xlsx) | Prioritized actions, proposed owner roles, target dates, dependencies, and closure evidence. |
-| [Risk Heat Map](northstar-grc-assessment/Northstar_Risk_Heat_Map.xlsx) | Inherent risk distribution and a comparison with recorded residual estimates. |
+| [Project Charter and Assessment Plan (PDF)](northstar-grc-assessment/01_Northstar_Project_Charter_and_Assessment_Plan.pdf) ([Word](northstar-grc-assessment/01_Northstar_Project_Charter_and_Assessment_Plan.docx)) | Fictional scenario, scope assumptions, assessment method, and rating definitions. |
+| [Control Assessment Matrix (PDF)](northstar-grc-assessment/02_Northstar_Control_Assessment_Matrix.pdf) ([Excel](northstar-grc-assessment/02_Northstar_Control_Assessment_Matrix.xlsx)) | The gap assessment: design, implementation, operation, findings, ratings, rationale, and recommendations. |
+| [Risk Register (PDF)](northstar-grc-assessment/03_Northstar_Risk_Register.pdf) ([Excel](northstar-grc-assessment/03_Northstar_Risk_Register.xlsx)) | Risk scenarios, business impacts, score rationales, existing safeguards, treatment, and uncertainty. |
+| [Evidence Register (PDF)](northstar-grc-assessment/04_Northstar_Evidence_Register.pdf) ([Excel](northstar-grc-assessment/04_Northstar_Evidence_Register.xlsx)) | Evidence IDs, control associations, artifact paths, and sample limitations. |
+| [Remediation Roadmap (PDF)](northstar-grc-assessment/Northstar_Remediation_Roadmap.pdf) ([Excel](northstar-grc-assessment/Northstar_Remediation_Roadmap.xlsx)) | Prioritized actions, proposed owner roles, target dates, dependencies, and closure evidence. |
+| [Risk Heat Map (PDF)](northstar-grc-assessment/Northstar_Risk_Heat_Map.pdf) ([Excel](northstar-grc-assessment/Northstar_Risk_Heat_Map.xlsx)) | Inherent risk distribution and a comparison with recorded residual estimates. |
 | [Evidence folder](northstar-grc-assessment/Evidence/) | The 27 synthetic CSV and document artifacts supporting the case. |
+
+The PDF copies present the same assessment entries in a reading layout. Use the Excel files for filtering and editing.
 
 For a quick review, start with the matrix, follow one evidence ID into the Evidence folder, and trace the related risk into the roadmap.
 
@@ -52,3 +54,4 @@ The declared sample window is **October 1–15, 2026**. Some artifacts are older
 ## Skills demonstrated
 
 Evidence reconciliation, control-gap analysis, risk documentation, uncertainty handling, remediation planning, and clear communication across linked assessment workbooks.
+
