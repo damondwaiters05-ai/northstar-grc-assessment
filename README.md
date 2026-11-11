@@ -1,4 +1,4 @@
-# Northstar Payment Systems — GRC Assessment Portfolio
+# Northstar Payment Systems — GRC Assessment 
 
 An academic cybersecurity governance, risk, and compliance case study for a **fictional payment services provider**. The project connects control observations to business risks and a practical remediation roadmap using synthetic evidence.
 
